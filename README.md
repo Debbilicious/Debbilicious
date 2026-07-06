@@ -40,10 +40,6 @@ A series of object-oriented programming projects in C#, applying core software d
 🌐 **[Web Fundamentals Projects](https://github.com/Debbilicious/wdd231)**
 Responsive websites built from scratch using semantic HTML, CSS, and JavaScript fundamentals (WDD 130/131/231).
 
-## GitHub Stats
-
-![Deborah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Debbilicious&show_icons=true&theme=default)
-
 ## Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/deborah-okolocha-434a18326)
