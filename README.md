@@ -7,22 +7,23 @@ I'm a student at Brigham Young University-Idaho studying Software Development, w
 - 🎓 Studying Software Development at BYU-Idaho (Expected 2028)
 - ⚡ Hold a Higher National Diploma (HND) in Electrical/Electronics Engineering
 - 💼 5+ years of experience in data entry, records management, and technical documentation across retail, design, and engineering environments
-- 🌱 Currently learning JavaScript, API integration, and object-oriented programming in C#
+- 🌱 Currently learning Web Backend Development, working with PostgreSQL and database servers
 - 🎯 Goals: to become a well-rounded software developer while continuing to grow my data and administrative skill set
 - 💬 Ask me about: web development fundamentals, Excel-based reporting, or technical documentation
 
 ## Technologies and Tools
 
-**Languages:** HTML5, CSS3, JavaScript, C#, Python (fundamentals)
+**Languages:** HTML, CSS, JavaScript, C#, Python (fundamentals), SQL, PostgreSQL
 **Tools:** Git & GitHub, Microsoft Excel, Microsoft Word
 **Concepts:** Responsive Web Design, Object-Oriented Programming, API Integration, DOM Manipulation
 
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
